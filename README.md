@@ -1,0 +1,1 @@
+# Go vanity import tests
